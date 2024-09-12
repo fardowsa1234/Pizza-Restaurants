@@ -1,28 +1,5 @@
 # Pizza Restaurants
-
-In this code challenge, you'll be working with a Pizza Restaurant domain.
-
-In this repo:
-
-- There is a Flask application with some features built out.
-- There is a fully built React frontend application.
-- There are tests included which you can run using `pytest -x`.
-- There is a file `challenge-1-pizzas.postman_collection.json` that contains a
-  Postman collection of requests for testing each route you will implement.
-
-Depending on your preference, you can either check your API by:
-
-- Using Postman to make requests
-- Running `pytest -x` and seeing if your code passes the tests
-- Running the React application in the browser and interacting with the API via
-  the frontend
-
-
-
 ## Setup
-
-The instructions assume you changed into the `code-challenge` folder **prior**
-to opening the code editor.
 
 To download the dependencies for the frontend and backend, run:
 
