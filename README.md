@@ -1,4 +1,4 @@
-# Phase 4 Code Challenge: Pizza Restaurants (Updated)
+# Pizza Restaurants
 
 In this code challenge, you'll be working with a Pizza Restaurant domain.
 
@@ -17,13 +17,7 @@ Depending on your preference, you can either check your API by:
 - Running the React application in the browser and interacting with the API via
   the frontend
 
-You can import `challenge-1-pizzas.postman_collection.json` into Postman by
-pressing the `Import` button.
 
-![import postman](https://curriculum-content.s3.amazonaws.com/6130/phase-4-code-challenge-instructions/import_collection.png)
-
-Select `Upload Files`, navigate to this repo folder, and select
-`challenge-1-pizzas.postman_collection.json` as the file to import.
 
 ## Setup
 
